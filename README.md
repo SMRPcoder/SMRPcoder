@@ -1,7 +1,7 @@
 # 💫 About Me:
--👋 Hi, I’m @SMRPcoder<br>- 👀 I’m Nodejs Developer<br>- 🌱 3YOE in Nodejs, Expressjs, PostgreSQL, MongoDB, React&Nextjs<br>- 🕒 Learning Keeps me More Happy<br>- 💞️ Fell in love with Nodejs environments <br>- 📫 reach me - rajapandeeswarans369@gmail.com -><br>- 🔗 portfolio -<a href="https://myprofile-lovat-tau.vercel.app/" target="_blank">Click Here to Visit My Portfolio</a> ->
+-👋 Hi, I’m @SMRPcoder<br>- 👀 I’m Nodejs Developer<br>- 🌱 3YOE in Nodejs, Expressjs, PostgreSQL, MongoDB, React&Nextjs<br>- 🕒 Learning Keeps me More Happy<br>- 💞️ Fell in love with Nodejs environments <br>- 📫 reach me - rajapandeeswarans369@gmail.com -><br>- 🔗 portfolio - [Click Here To See My portfolio](https://myprofile-lovat-tau.vercel.app/) -> ->
 
-## 🌐 Socials:
+## 🌐 Socials:🔗 portfolio - ![Click Here To See My portfolio](https://myprofile-lovat-tau.vercel.app/) ->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajapandeeswaran/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajapandeeswarans369@gmail.com) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/rp_coder)
 
 # 💻 Tech Stack:
